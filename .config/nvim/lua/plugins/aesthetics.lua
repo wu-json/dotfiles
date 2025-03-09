@@ -1,20 +1,11 @@
 return {
   {
-    "EdenEast/nightfox.nvim",
-    opts = {
-      options = {
-        transparent = true,
-      },
-      groups = {
-        all = {
-          NormalFloat = { fg = "fg1", bg = "NONE" },
-        },
-      },
-    },
+    "rktjmp/lush.nvim",
+    { dir = "/Users/jasonwu/GitHub/personal/automata", lazy = true },
   },
   {
     "LazyVim/LazyVim",
-    opts = { colorscheme = "nightfox" },
+    opts = { colorscheme = "automata" },
   },
   {
     "rcarriga/nvim-notify",

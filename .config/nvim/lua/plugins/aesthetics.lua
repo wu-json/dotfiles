@@ -52,5 +52,5 @@ return {
       },
     },
   },
-  { "rktjmp/lush.nvim" },
+  { "rktjmp/lush.nvim", { dir = "/Users/jasonwu/GitHub/personal/makima", lazy = true } },
 }

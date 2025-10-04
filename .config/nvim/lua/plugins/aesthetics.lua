@@ -1,7 +1,7 @@
 return {
   {
     "LazyVim/LazyVim",
-    opts = { colorscheme = "makima" },
+    opts = { colorscheme = "reze" },
   },
   {
     "j-hui/fidget.nvim",
@@ -39,5 +39,5 @@ return {
       },
     },
   },
-  { "rktjmp/lush.nvim", { dir = "/Users/jasonwu/GitHub/personal/makima", lazy = true } },
+  { "rktjmp/lush.nvim", { dir = "/Users/jasonwu/GitHub/personal/reze", lazy = true } },
 }

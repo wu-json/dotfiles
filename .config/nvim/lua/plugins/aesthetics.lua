@@ -4,7 +4,7 @@ return {
   },
   {
     "LazyVim/LazyVim",
-    opts = { colorscheme = "reze" },
+    opts = { colorscheme = "reze_lush" },
   },
   {
     "j-hui/fidget.nvim",

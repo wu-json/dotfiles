@@ -26,7 +26,7 @@ alias ls="eza"
 alias tree="eza --tree"
 
 # Claudius Codius
-# alias c="claude"
+alias cl="claude"
 
 # Cursor
 alias c="cursor-agent"
@@ -53,3 +53,5 @@ alias assume="source ~/.config/fish/assume.fish"
 if test -f ~/.config/fish/config.local.fish
     source ~/.config/fish/config.local.fish
 end
+
+set fish_greeting ""
